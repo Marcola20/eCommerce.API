@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8766: A nulidade de tipos de referência no tipo de retorno não corresponde ao membro implementado implicitamente (possivelmente devido a atributos de nulidade).
+dotnet_diagnostic.CS8766.severity = none
+
+# CS8605: Executando a conversão unboxing de um valor possivelmente nulo.
+dotnet_diagnostic.CS8605.severity = none
